@@ -1,0 +1,10 @@
+name: Create Node Image
+description: 创建一个Node镜像
+labels:
+- create node image
+body:
+- type: markdown
+  attributes:
+    value: |
+      # ↑↑↑↑↑↑↑↑↑↑↑ 填入你要创建的Node镜像
+      例如：`node:alpine`
